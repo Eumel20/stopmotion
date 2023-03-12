@@ -1,0 +1,30 @@
+body {background-color: lightsteelblue}
+
+#text-1 {
+  margin-left: 6cm;
+  margin-top: -2cm;
+}
+
+#lego-1 {
+  margin-left: 9cm;
+  margin-top: 4cm;
+}
+
+#lego-2 {
+  margin-left: 9cm;
+  margin-top: 2cm;
+}
+
+#lego-3 {
+  margin-left: 9cm;
+  margin-top: 2cm;
+}
+
+#lego-4 {
+  margin-left: 9cm;
+  margin-top: 2cm;
+}
+
+#button-back {
+  margin-left: 0.5cm;
+}
